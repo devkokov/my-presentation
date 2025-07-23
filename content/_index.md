@@ -8,4 +8,4 @@ theme = "black"
 
 # Here it is
 
-This is my presentation template
+This is my presentation template.
